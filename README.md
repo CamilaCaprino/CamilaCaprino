@@ -11,8 +11,6 @@
 
 🔮 Redesign and create existing systems to ensure their adaptability to the needs of the work environment.
 
-💻 unos cuántos años de experiencia en el proceso de desarrollo de software (solo voy a decir más de 15 para no deschavar mi edad 🙈)
-
 📫 Email: **camicaprino@gmail.com**
 
 <h2>Connect with me</h2>
